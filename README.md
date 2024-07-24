@@ -10,6 +10,9 @@
 
 📚 **Learning:** I'm constantly exploring new technologies and frameworks to enhance my skills and keep up with the latest industry trends.
 
-🌐 **Connect:** Feel free to reach out to me via [Email](mailto:kepo5524@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/bgsmntmuhammad).
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/bgsmntmuhammad)
+- [Email](mailto:kepo5524@gmail.com)
 
 Let's build something great together! 🚀
