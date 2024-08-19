@@ -6,6 +6,7 @@ Frontend: HTML, CSS, JavaScript, React
 Backend: Node.js, PHP, Laravel
 Database: SQL
 Tools: Git, RESTful APIs
+
 🌟 Projects: I have worked on various projects ranging from e-commerce applications to custom web solutions for corporations. You can check out some of my work in the repositories below.
 
 📚 Learning: I'm constantly exploring new technologies and frameworks to enhance my skills and keep up with the latest industry trends.
